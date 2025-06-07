@@ -1,0 +1,52 @@
+/* 1. Style the body: font family and font size */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+
+/* 2. Style the header: background color */
+header {
+  background-color: #004080; /* Navy blue */
+  color: white;
+  padding: 15px;
+}
+
+/* 3. Style the nav: background color */
+nav {
+  background-color: #0073e6; /* Lighter blue */
+  padding: 10px;
+}
+
+/* 4. Style the main: background color and font size */
+main {
+  background-color: #f0f8ff; /* Alice blue */
+  font-size: 18px;
+  padding: 20px;
+}
+
+/* 5. Style the footer: background color */
+footer {
+  background-color: #003366; /* Darker blue */
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+/* 6. Style the li: display and width */
+li {
+  display: inline-block;
+  width: 120px;
+  margin-right: 10px;
+}
+
+/* 7. Style the h1: text alignment, font family, color */
+h1 {
+  text-align: center;
+  font-family: 'Georgia', serif;
+  color: #003366;
+}
+
+/* 8. Style the p: line height */
+p {
+  line-height: 1.6;
+}
